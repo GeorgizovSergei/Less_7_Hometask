@@ -1,0 +1,15 @@
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\bin\Debug\net6.0\Hometask_47.exe
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\bin\Debug\net6.0\Hometask_47.deps.json
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\bin\Debug\net6.0\Hometask_47.runtimeconfig.json
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\bin\Debug\net6.0\Hometask_47.dll
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\bin\Debug\net6.0\Hometask_47.pdb
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.csproj.AssemblyReference.cache
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.GeneratedMSBuildEditorConfig.editorconfig
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.AssemblyInfoInputs.cache
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.AssemblyInfo.cs
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.csproj.CoreCompileInputs.cache
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.dll
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\refint\Hometask_47.dll
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.pdb
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\Hometask_47.genruntimeconfig.cache
+F:\GB\Hometask\Less_7_Hometask\Hometask_47\obj\Debug\net6.0\ref\Hometask_47.dll
